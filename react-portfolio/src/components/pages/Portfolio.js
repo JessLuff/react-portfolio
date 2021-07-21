@@ -60,7 +60,8 @@ const projects = [
 
 export default function Projects() {
   return (
-    <div>
+    <div> 
+      <h1> Portfolio </h1>
       {projects.map((project) => (
         <Card name={project.name} description={project.description} webpage={project.site} github={project.github} picture={project.picture} key={project.id} />
       ))}

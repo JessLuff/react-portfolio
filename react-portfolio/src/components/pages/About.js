@@ -5,7 +5,7 @@ import '../../styles/About.css';
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
+      <h1>About Me</h1>
       <p>
       My name is Jessica Luff, I am an engineer from Sydney, Australia.
             I hold a Master of Biomedical Engineering and a Bachelor of Mechatronic Engineering from the University of New South Wales,
