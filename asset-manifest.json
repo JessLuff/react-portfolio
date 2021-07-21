@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.146097cb.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b51459e1.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b51459e1.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.f9d4b86f.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.da32660a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.da32660a.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.872b2f22.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.872b2f22.js.map",
     "static/css/2.4be38407.chunk.css": "/react-portfolio/static/css/2.4be38407.chunk.css",
-    "static/js/2.f3de75bd.chunk.js": "/react-portfolio/static/js/2.f3de75bd.chunk.js",
-    "static/js/2.f3de75bd.chunk.js.map": "/react-portfolio/static/js/2.f3de75bd.chunk.js.map",
+    "static/js/2.b2b9c02c.chunk.js": "/react-portfolio/static/js/2.b2b9c02c.chunk.js",
+    "static/js/2.b2b9c02c.chunk.js.map": "/react-portfolio/static/js/2.b2b9c02c.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.4be38407.chunk.css.map": "/react-portfolio/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.146097cb.chunk.css.map": "/react-portfolio/static/css/main.146097cb.chunk.css.map",
-    "static/js/2.f3de75bd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f3de75bd.chunk.js.LICENSE.txt",
+    "static/css/main.f9d4b86f.chunk.css.map": "/react-portfolio/static/css/main.f9d4b86f.chunk.css.map",
+    "static/js/2.b2b9c02c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.b2b9c02c.chunk.js.LICENSE.txt",
+    "static/media/Resume.1b1f71ac.pdf": "/react-portfolio/static/media/Resume.1b1f71ac.pdf",
     "static/media/bootcamp-hub.37325dd9.png": "/react-portfolio/static/media/bootcamp-hub.37325dd9.png",
     "static/media/budget-tracker.f03fdbad.png": "/react-portfolio/static/media/budget-tracker.f03fdbad.png",
     "static/media/day-planner.dd3f9547.png": "/react-portfolio/static/media/day-planner.dd3f9547.png",
@@ -22,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.872b2f22.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.f3de75bd.chunk.js",
-    "static/css/main.146097cb.chunk.css",
-    "static/js/main.b51459e1.chunk.js"
+    "static/js/2.b2b9c02c.chunk.js",
+    "static/css/main.f9d4b86f.chunk.css",
+    "static/js/main.da32660a.chunk.js"
   ]
 }
