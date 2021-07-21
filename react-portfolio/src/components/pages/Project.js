@@ -23,10 +23,10 @@ export default function Card(projects) {
            alt="Project"
            />
            <p className="card-text">{projects.description}</p>
-           <a href={projects.webpage} className="btn btn-primary">
+           <a href={projects.webpage} className="btn btn-outline-dark">
             Deployed Webpage
            </a>
-           <a href={projects.github} className="btn btn-primary">
+           <a href={projects.github} className="btn btn-outline-dark">
             Github Repository
            </a>
         </div>

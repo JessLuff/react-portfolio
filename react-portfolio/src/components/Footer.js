@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Footer.css';
+import '../styles/Header.css';
 import linkedin from '../assets/images/linkedin.png';
 import github from '../assets/images/github.png';
 
@@ -8,6 +8,7 @@ const styles = {
      width: '50px',
      margin: '20px',
   },
+
 };
 
 function Footer() {

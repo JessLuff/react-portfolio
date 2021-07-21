@@ -1,5 +1,5 @@
 .header {
-  background: #b71775;
+  background: #006D77;
   height: 200px;
 }
 
@@ -10,3 +10,10 @@
   color: white;
   font-size: 200px;
 }
+
+image {
+  align-content: center;
+  width: '100px';
+  margin: '20px';
+}
+

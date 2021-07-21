@@ -3,11 +3,11 @@ import resume from '../../assets/Resume.pdf';
 
 export default function Resume() {
   return (
-    <div>
+    <div class="container">
       <h1>Resume</h1>
-      <a href={resume} download> <h1>Download Resume</h1></a>
+      <a href={resume} download> <h1>Download</h1></a>
       <h2>Skills and Proficiencies</h2>
-      <ul>
+      <ul class="skills">
         <li>C++</li>
         <li>Javascript</li>
         <li>SQL</li>

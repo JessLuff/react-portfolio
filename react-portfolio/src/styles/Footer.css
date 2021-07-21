@@ -1,12 +1,15 @@
-.header {
-  background: #b71775;
+.footer {
+  background: #CBC0D3;
   height: 200px;
+  text-align: center;
 }
 
-.header h1 {
+.footer h1 {
   margin: 0;
   padding-top: 75px;
   text-align: center;
   color: white;
   font-size: 3rem;
 }
+
+

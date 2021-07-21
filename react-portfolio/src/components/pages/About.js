@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div>
       <h1>About Me</h1>
-      <p>
+      <p className="text">
       My name is Jessica Luff, I am an engineer from Sydney, Australia.
             I hold a Master of Biomedical Engineering and a Bachelor of Mechatronic Engineering from the University of New South Wales,
             and am currently completing the Coding Bootcamp with the University of Sydney.
