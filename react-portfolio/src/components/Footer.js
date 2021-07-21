@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Header.css';
+import '../styles/Footer.css';
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
@@ -16,12 +16,12 @@ const styles = {
 
 // We use JSX curly braces to evaluate the style object
 
-function Header() {
+function Footer() {
   return (
-    <header style={styles.headerStyle} className="header">
-      <h1 style={styles.headingStyle}>Jessica Luff</h1>
-    </header>
+    <footer style={styles.footerStyle} className="header">
+      <h1 style={styles.footerStyle}>Jessica Luff</h1>
+    </footer>
   );
 }
 
-export default Header;
+export default Footer;

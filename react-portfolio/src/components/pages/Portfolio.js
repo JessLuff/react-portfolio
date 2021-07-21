@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from './Card';
+import Card from './Project';
 import bootcamphub from '../../assets/images/bootcamp-hub.png';
 import passwordgen from '../../assets/images/password-generator.png';
 import dayplanner from '../../assets/images/day-planner.png';

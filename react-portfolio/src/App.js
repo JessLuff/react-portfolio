@@ -1,12 +1,14 @@
 import React from "react";
 import Header from "./components/Header";
-import PortfolioContainer from "./components/PortfolioContainer";
+import Footer from "./components/Footer";
+import ContentContainer from "./components/ContentContainer";
 
 function App() {
   return (
     <div>
       <Header />
-      <PortfolioContainer />
+      <ContentContainer />
+      <Footer />
     </div>
   );
 }
